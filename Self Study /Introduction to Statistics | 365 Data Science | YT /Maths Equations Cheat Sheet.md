@@ -37,14 +37,16 @@
 ---
 
 ## 🔹 4. Core Equations in Stats/ML
-| Equation | Story Version |
-|----------|---------------|
-| mu = (Σ xi) / n | Mean = add all scores, divide by number of people. |
-| sigma^2 = (1/n) Σ (xi - mu)^2 | Variance = check how far each score is from average, square it, add all, divide. |
-| z = (x - mu) / sigma | Z-score = “How many steps away from the average is x?” |
-| P(A) | Probability of A = chance of A happening (0 to 1). |
-| y = mx + c | Straight line: output grows at rate m when x increases, starting at c. |
-| y = b0 + b1x1 + b2x2... | Regression: output depends on multiple inputs, each with weight (b). |
+| Equation | Meaning (Story Version) |
+|----------|--------------------------|
+| μ = (Σ xi) / n | Mean = add all scores, divide by total number. |
+| σ² = (1/n) Σ (xi - μ)² | Variance = average squared distance from mean. |
+| σ = √(σ²) | Standard Deviation = typical distance from mean. |
+| z = (x - μ) / σ | Z-score = “How many standard steps away is x from the mean?” |
+| P(A) = (favorable outcomes) / (total outcomes) | Probability of A happening (between 0 and 1). |
+| y = mx + c | Simple Linear Equation = line with slope m and intercept c. |
+| y = β₀ + β₁x₁ + β₂x₂ + ... + βₙxₙ | Multiple Regression = output depends on weighted sum of inputs. |
+
 
 ---
 
