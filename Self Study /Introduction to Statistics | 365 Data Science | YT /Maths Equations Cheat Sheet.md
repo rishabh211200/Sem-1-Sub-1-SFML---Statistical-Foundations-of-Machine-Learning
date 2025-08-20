@@ -13,14 +13,16 @@
 ---
 
 ## 🔹 2. Greek Letters You’ll See
-| Symbol | Name | Story / Meaning |
-|--------|------|-----------------|
-| mu | μ (Mu) | Mean → “the average score of the group.” |
-| sigma | σ (Sigma) | Standard deviation → “how spread out the scores are.” |
-| sigma^2 | σ² (Variance) | Average squared distance from the mean. |
-| alpha | α (Alpha) | Significance level → “risk you’re okay with in testing.” |
-| beta | β (Beta) | Coefficient in regression → “effect of x on y.” |
-| lambda | λ (Lambda) | Rate → “how often something happens per unit time.” |
+| Symbol | Name   | Story / Meaning |
+|--------|--------|-----------------|
+| μ      | Mu     | Mean → “the average score of the group.” |
+| σ      | Sigma  | Standard deviation → “how spread out the scores are.” |
+| σ²     | Variance | Average squared distance from the mean. |
+| α      | Alpha  | Significance level → “risk you’re okay with in testing.” |
+| β      | Beta   | Coefficient in regression → “effect of x on y.” |
+| λ      | Lambda | Rate → “how often something happens per unit time.” |
+| Σ      | Sigma (capital) | Summation → “add everything up.” |
+
 
 ---
 
